@@ -1,0 +1,23 @@
+[
+    {
+      "category": "electronics",
+      "price": 15,
+      "unit": "per unit"
+    },
+    {
+      "category": "clothing",
+      "price": 10,
+      "unit": "per piece"
+    },
+    {
+      "category": "furniture",
+      "price": 20,
+      "unit": "per item"
+    },
+    {
+      "category": "bags",
+      "price": 12,
+      "unit": "per bag"
+    }
+  ]
+  

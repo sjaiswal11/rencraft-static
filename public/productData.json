@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Chic Handbags",
+    "image": "/path/to/your/image1.jpg",
+    "description": "Explore our chic handbag collection designed to add a touch of sophistication to your look."
+  },
+  {
+    "id": 2,
+    "title": "Versatile Backpacks",
+    "image": "/path/to/your/image2.jpg",
+    "description": "Discover our versatile backpacks suitable for every occasion, combining style and functionality."
+  },
+  {
+    "id": 3,
+    "title": "Exclusive Designs",
+    "image": "/path/to/your/image3.jpg",
+    "description": "Unleash your individuality with our exclusive bag designs, carefully crafted for a statement look."
+  }
+]
