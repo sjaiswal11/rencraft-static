@@ -75,7 +75,7 @@ const AboutUsPage = () => {
               Our clientele includes businesses seeking bags for events, 
               promotions, or selling purposes.
               <br /><br/>
-              <b>Our Products </b>
+              <b>Our Products </b> :
               Event Bags: Tailored bags that make a statement at corporate events, 
               trade shows, and conferences.
               <br /><br/>
@@ -85,12 +85,12 @@ const AboutUsPage = () => {
               <b>Branded Bags</b>: Personalized bags that serve as powerful marketing tools for 
               your business.
               <br /><br/>
-              <b>Collaborate with Rencraft</b>
+              <b>Collaborate with Rencraft</b> :
               Partner with us to transform your bag ideas into tangible assets for your business. 
               We invite you to explore our expertise in manufacturing custom bags that align with 
               your brand's objectives.
               <br /><br/>
-              <b>Contact Us</b>
+              <b>Contact Us</b> :
               Let's collaborate on crafting bespoke bags that elevate your brand's identity. 
               Reach out to us to discuss your requirements, and let's embark on this creative journey together.
               </Typography>

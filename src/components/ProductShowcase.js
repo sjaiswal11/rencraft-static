@@ -23,9 +23,23 @@ const ProductShowcase = () => {
     <div className="product-showcase">
       <Slider {...settings}>
         {categories.map((category, index) => (
-          <div key={index} className="category-card">
-            <img src={category.imageURL} alt={category.name} />
-            <h3>{category.name}</h3>
+          <div key={index} 
+            className="category-card"
+            style={{
+              width: '400px', // Set the width of the card
+              height: '300px', // Set the height of the card
+              border: '1px solid #ccc', // Optional: Add a border for visualization
+            }}
+          >
+            <img src={category.image} 
+              alt={category.category}
+              style={{
+                width: '400px', // Ensures the image fills the container
+                height: '300px', // Ensures the image fills the container
+                objectFit: 'cover', // Maintains aspect ratio and fills the container
+              }} 
+            />
+            <h3>{category.category}</h3>
           </div>
         ))}
       </Slider>

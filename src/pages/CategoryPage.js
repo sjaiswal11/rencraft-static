@@ -34,15 +34,18 @@ const CategoryPage = () => {
     <Container maxWidth="xl">
       {categories.map((category) => (
         <div key={category.id}>
-          <div style={{ width: '100%', height: '400px', overflow: 'hidden', margin: '20px 0' }}>
-            <img src={category.image} alt={category.category} style={{ width: '100%', height: 'auto' }} />
-          </div>
+          <div style={{ width: '100%', height: '700px', overflow: 'hidden', margin: '20px 0' }}>
           <Typography variant="h4" align="center" style={{ margin: '20px 0' }}>
             {category.category}
           </Typography>
-          <Typography variant="body1" style={{ marginBottom: '20px' }}>
+          <Typography variant="body1" align="center" style={{ marginBottom: '20px' }}>
             {category.description}
           </Typography>
+          <div align="center">
+            <img src={category.image} alt={category.category} style={{ width: 'auto', height: '600px' }} />
+          </div>
+          </div>
+          <hr color='blue'></hr>
         </div>
       ))}
       <div style={{ display: 'flex', justifyContent: 'center' }}>
