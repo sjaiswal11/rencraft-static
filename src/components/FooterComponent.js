@@ -19,7 +19,7 @@ const FooterComponent = () => {
         <Grid container spacing={3}>
           <Grid item xs={12} md={6}>
             <Typography variant="h6" gutterBottom>
-              Physical Address
+            RENCRAFT INDIA PVT. LTD.
             </Typography>
             <Typography>
               <Room /> {address}
