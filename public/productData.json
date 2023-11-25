@@ -2,19 +2,19 @@
   {
     "id": 1,
     "title": "Chic Handbags",
-    "image": "/path/to/your/image1.jpg",
+    "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2NzM5MzEtaW1hZ2Uta3d2eGlzcWQuanBn.jpg",
     "description": "Explore our chic handbag collection designed to add a touch of sophistication to your look."
   },
   {
     "id": 2,
     "title": "Versatile Backpacks",
-    "image": "/path/to/your/image2.jpg",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
     "description": "Discover our versatile backpacks suitable for every occasion, combining style and functionality."
   },
   {
     "id": 3,
     "title": "Exclusive Designs",
-    "image": "/path/to/your/image3.jpg",
+    "image": "https://c1.peakpx.com/wallpaper/942/569/138/purse-pay-wallet-purses-shopping-wallpaper.jpg",
     "description": "Unleash your individuality with our exclusive bag designs, carefully crafted for a statement look."
   }
 ]

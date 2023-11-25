@@ -25,7 +25,7 @@ const InitialComponents = () => (
     <BagsComponent />
     <ProductShowcase />
     <ServiceComponent />
-    <MostSellingBagsComponent />
+    {/* <MostSellingBagsComponent /> */}
     <ContactComponent />
   </div>
 );

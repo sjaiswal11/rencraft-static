@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "category": "Laptop Bags",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+        "description": "Explore our durable and stylish travel bags. Perfect companions for your next adventure."
+      },
+      {
+        "id": 2,
+        "category": "Regular Backpacks",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+        "description": "Discover trendy and versatile backpacks for all occasions. Comfort meets style!"
+      },
+      {
+        "id": 3,
+        "category": "Laptop Sleeve",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+        "description": "Elegant handbags designed for everyday functionality and fashion-forward individuals."
+      }
+]
