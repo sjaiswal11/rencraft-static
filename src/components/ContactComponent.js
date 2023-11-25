@@ -78,6 +78,7 @@ const ContactComponent = () => {
           </Grid>
         </Grid>
       </form>
+      <br />
     </Container>
   );
 };

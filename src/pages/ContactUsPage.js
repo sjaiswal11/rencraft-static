@@ -96,6 +96,7 @@ const ContactUsPage = () => {
               </Grid>
             </Grid>
           </form>
+          <br />
         </Grid>
       </Grid>
     </Container>

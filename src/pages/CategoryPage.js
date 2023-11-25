@@ -53,6 +53,7 @@ const CategoryPage = () => {
             Contact Us
           </Button>
       </div>
+      <br />
 
       <Dialog open={isContactOpen} onClose={handleContactClose}>
         <DialogTitle>Contact Us</DialogTitle>

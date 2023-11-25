@@ -146,6 +146,7 @@ const PricingPage = () => {
               </Grid>
             </Grid>
           </form>
+          <br />
         </Grid>
         {quotation && (
           <Grid item xs={12}>

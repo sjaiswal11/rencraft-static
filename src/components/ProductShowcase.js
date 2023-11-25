@@ -50,6 +50,7 @@ const ProductShowcase = () => {
           </Button>
       </Link>
       </div>
+      <br />
     </div>
   );
 };
