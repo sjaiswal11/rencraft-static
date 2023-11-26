@@ -44,15 +44,15 @@ const ProductCatalog = () => {
               <CardMedia
                 component="img"
                 alt={product.name}
-                height="140"
-                image={product.imageUrl}
+                height="200"
+                image={product.image}
               />
               <CardContent>
                 <Typography variant="h6" gutterBottom>
                   {product.name}
                 </Typography>
                 <Typography variant="body1" color="textSecondary">
-                  Price: ${product.price.toFixed(2)}
+                  Price: {product.price}
                 </Typography>
                 <Typography variant="body2" paragraph>
                   {product.description}
