@@ -15,7 +15,6 @@ import {
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
-import AdbIcon from '@mui/icons-material/Adb';
 
 const pages = ['Products', 'Category', 'Pricing', 'Blog', 'About Us', 'Contact Us'];
 const settings = ['Product', 'Pricing', 'Blog', 'About Us', 'Contact Us'];
@@ -44,9 +43,14 @@ function ResponsiveAppBar() {
     <AppBar position="static">
       <Container maxWidth="xl">
         <Toolbar disableGutters>
-          <AdbIcon
-            sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}
-          />
+          <Box sx={{ display: { xs: 'none', md: 'flex' }, alignItems: 'center', mr: 1 }}>
+            <img
+              src="https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/Logo/rencraft.jpeg" // Replace with the path to your logo
+              alt="RENCRAFT"
+              style={{ width: '40px', height: '40px', borderRadius: '50%' }} // Set the width, height, and other styles as needed
+            />
+          </Box>
+
           <Typography
             variant="h6"
             noWrap
@@ -101,8 +105,37 @@ function ResponsiveAppBar() {
               ))}
             </Menu>
           </Box>
-          <AdbIcon sx={{ display: { xs: 'flex', md: 'none' }, mr: 1 }} />
-          <Typography
+          <Box
+            sx={{
+              mr: 2,
+              display: { xs: 'flex', md: 'none' },
+              flexGrow: 1,
+              alignItems: 'center', // Align the logo and text vertically
+            }}
+          >
+            <img
+              src="https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/Logo/rencraft.jpeg" // Replace with the path to your logo
+              alt="RENCRAFT"
+              style={{
+                width: '100px', // Set the width of your logo
+                height: 'auto', // Maintain aspect ratio
+                display: 'block', // Ensure the logo is treated as a block element
+              }}
+            />
+            <span
+              style={{
+                fontFamily: 'monospace',
+                fontWeight: 700,
+                letterSpacing: '.3rem',
+                color: 'inherit',
+                textDecoration: 'none',
+                marginLeft: '8px', // Adjust margin as needed to separate the logo and text
+              }}
+            >
+              RENCRAFT
+            </span>
+          </Box>
+          {/* <Typography
             variant="h5"
             noWrap
             component={Link}
@@ -119,7 +152,7 @@ function ResponsiveAppBar() {
             }}
           >
             LOGO
-          </Typography>
+          </Typography> */}
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }}>
             {pages.map((page) => (
               <Button
