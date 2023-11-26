@@ -1,0 +1,41 @@
+{
+    "products": [
+      { 
+        "id": 1, 
+        "name": "delievery bags", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/delivery+bags/delivery-bags.webp" 
+    },
+    { 
+        "id": 2, 
+        "name": "Travelling Bags", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/travelling+bags/2.jpg" 
+    },
+    { 
+        "id": 3, 
+        "name": "Sling Bags", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/sling+bag/sling-bags.webp" 
+    },
+    { 
+        "id": 4, 
+        "name": "Laptop Sleeve", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/laptop+sleeve/laptop-sleeve.webp" 
+    },
+    { 
+        "id": 5, 
+        "name": "Laptop Backpack", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/laptop+Backpack/leather.webp" 
+    },
+    { 
+        "id": 6, 
+        "name": "Gym Bags", 
+        "price": "Design and Price can be discussed", 
+        "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/gym+bags/gym-bags.webp" 
+    }      
+    ]
+  }
+  

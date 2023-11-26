@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "category": "Laptop Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/laptop+Backpack/leather.webp",
+    "description": "Explore our durable and stylish travel bags. Perfect companions for your next adventure."
+  },
+  {
+    "id": 2,
+    "category": "Regular Backpacks",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/Regular+Backpack/regular-backpack.jpg",
+    "description": "Discover trendy and versatile backpacks for all occasions. Comfort meets style!"
+  },
+  {
+    "id": 3,
+    "category": "Laptop Sleeve",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/laptop+sleeve/laptop-sleeve.webp",
+    "description": "Elegant handbags designed for everyday functionality and fashion-forward individuals."
+  },
+  {
+    "id": 4,
+    "category": "Sling Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/saddle+bags/saddle-bag.webp",
+    "description": "Protective and professional laptop bags designed for modern working lifestyles."
+  },
+  {
+    "id": 5,
+    "category": "Gym Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/gym+bags/gym-bags.webp",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 6,
+    "category": "Foldable Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/foldable+bags/foldable-bags.webp",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 7,
+    "category": "Duffle Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/duffle+bags/duffle-bags.webp",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 8,
+    "category": "Waist Belt Pouch",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 9,
+    "category": "Travelling Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/travelling+bags/4.jpg",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 10,
+    "category": "Delhivery Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/meat+delivery+bags/meat-delivery-bag.webp",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 11,
+    "category": "Saddle Bags",
+    "image": "https://rencraft-images-001.s3.ap-south-1.amazonaws.com/rencraft-images/saddle+bags/saddle-bag.webp",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 12,
+    "category": "Meat Delhivery Bags",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 13,
+    "category": "Hot and Cold Delhivery Bags",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  },
+  {
+    "id": 14,
+    "category": "Pallet Belts",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.IfordMGw3lNYOYcOQ9DMsgHaDF%26pid%3DApi&f=1&ipt=37ca0a8064b21f04faf7fdbd1136c741f2c095e0ae1248e9f66b818ec4ef14ce&ipo=images",
+    "description": "Stylish and spacious tote bags for effortless chic and practical daily use."
+  }
+]

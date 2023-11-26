@@ -1,0 +1,25 @@
+{
+    "mostSellingBags": [
+    {
+      "name": "Pannier",
+      "description" : "Pannier",
+      "imageURL": "https://shilpaahuja.com/wp-content/uploads/2019/04/different-types-of-sports-bags-pannier-bag-bicycle-300x292.jpg"
+    },
+    {
+      "name": "Duffel Bags",
+      "description":"Duffel Bags",
+      "imageURL": "https://shilpaahuja.com/wp-content/uploads/2018/05/fashion-words-terminology-glossary-dictionary-terms-types-of-bags-duffel-bags-nike.jpg"
+    },
+    {
+        "name": "Rucksack",
+        "description": "Rucksack",
+        "imageURL" : "https://shilpaahuja.com/wp-content/uploads/2018/05/fashion-terminology-glossary-dictionary-terms-types-of-bags-rucksack-india-mart.jpg"
+    },
+    {
+        "name":"Week End Bags",
+        "description":"Week End Bags",
+        "imageURL" :"https://shilpaahuja.com/wp-content/uploads/2019/04/different-types-of-handbags-bags-weekend-bag.jpg"
+    }
+  ]
+}
+  
