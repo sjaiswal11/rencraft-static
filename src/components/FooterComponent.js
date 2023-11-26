@@ -1,7 +1,8 @@
 // components/FooterComponent.js
 import React from 'react';
 import { Container, Grid, Typography, IconButton } from '@mui/material';
-import { Room, Email, Phone, WhatsApp } from '@mui/icons-material';
+import { Room, Email, Phone } from '@mui/icons-material';
+import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import data from '../data/FooterData.json';
 
 const FooterComponent = () => {
@@ -49,24 +50,29 @@ const FooterComponent = () => {
               Contact Number
             </Typography>
             <Typography>
-              <Phone /> {contactNumber}
+              <div style={{ display: 'flex', alignItems: 'center' }}>
+                <Phone /> {contactNumber}
+              </div>
             </Typography>
           </Grid>
           <Grid item xs={12} md={6}>
             <Typography variant="h6" gutterBottom>
               Email
             </Typography>
-            <Typography>
-              <Email /> {email}
-            </Typography>
+              <Typography>
+                <div style={{ display: 'flex', alignItems: 'center' }}>
+                  <Email /> {email}
+                </div>
+              </Typography>
           </Grid>
           <Grid item xs={12} md={6}>
             <Typography variant="h6" gutterBottom>
               WhatsApp Connect
             </Typography>
-            <Typography>
-              <WhatsApp /> {whatsappConnect}
-            </Typography>
+              <div style={{ display: 'flex', alignItems: 'center' }}>
+              <WhatsAppIcon />
+              <Typography>{whatsappConnect}</Typography>
+            </div>
           </Grid>
         </Grid>
       </Container>
